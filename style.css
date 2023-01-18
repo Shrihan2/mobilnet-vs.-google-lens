@@ -1,0 +1,28 @@
+#heading{
+    display:inline-block;
+}
+#image1{
+    display:inline-block;
+}
+.btn-info{
+    background-color:rgb(66, 66, 167);
+}
+.test_image_and_result{
+    background-color:gray;
+    box-shadow:1px,1px,40px,gray;
+    border-radius:25px;
+    margin-right:25px;
+    color:white;
+    padding-top:10px;
+    margin-top:15px;
+    margin-bottom:15px;
+}
+.image{
+    margin-bottom:20px;
+    border-radius:5px;
+}
+.output{
+    background-color:white;
+    color:black;
+    border-radius:10px;
+}
